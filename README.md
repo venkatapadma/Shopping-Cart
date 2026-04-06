@@ -1,6 +1,6 @@
 # Quasar App (quasar-project)
 
-this is my first quasar app
+shopping-cart is developed using Vue/quasar
 
 ## Install the dependencies
 ```bash
